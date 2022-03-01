@@ -1,0 +1,102 @@
+[
+  {
+    "1":  " Which of the following is the correct syntax to add the header file in the C++ program?",
+    "2":  " Which of the following is the correct syntax to print the message in C++ language?",
+    "3":  " Which of the following is the correct identifier?",
+    "4":  " Which of the following is the address operator?",
+    "5":  " Which of the following features must be supported by any programming language to become a pure object-oriented programming language?",
+    "6":  " The programming language that has the ability to create new data types is called___.",
+    "7":  " Which of the following is the original creator of the C++ language?",
+    "8":  " Which of the following is the correct syntax to read the single character to console in the C++ language?",
+    "9":  " The C++ language is ______ object-oriented language.",
+    "10": " Which of the following features is required to be supported by the programming language to become a pure object-oriented programming language?"
+  },
+
+  {
+    "1": {
+      "a": " #include<userdefined>",
+      "b": " #include \"userdefined.h\"",
+      "c": " <include> \"userdefined.h\"",
+      "d": " Both A and B"
+    },
+
+    "2": {
+      "a": " cout <<\"Hello world!\";",
+      "b": " Cout << Hello world! ;",
+      "c": " Out <<\"Hello world!;",
+      "d": " None of the above"
+    },
+
+    "3": {
+      "a": " $var_name",
+      "b": " VAR_123",
+      "c": " varname@",
+      "d": " None of the above"
+    },
+
+    "4": {
+      "a": " @",
+      "b": " #",
+      "c": " &",
+      "d": " %"
+    },
+
+    "5": {
+      "a": " Encapsulation",
+      "b": " Inheritance",
+      "c": " Polymorphism",
+      "d": " All of the above"
+    },
+
+    "6": {
+      "a": " Overloaded",
+      "b": " Encapsulated",
+      "c": " Reprehensible",
+      "d": " Extensible"
+    },
+
+    "7": {
+      "a": " Dennis Ritchie",
+      "b": " Ken Thompson",
+      "c": " Bjarne Stroustrup",
+      "d": " Brian Kernighan"
+    },
+
+    "8": {
+      "a": " Read ch()",
+      "b": " Getline vh()",
+      "c": " get(ch)",
+      "d": " Scanf(ch)"
+    },
+
+    "9": {
+      "a": " Pure Object oriented",
+      "b": " Not Object oriented",
+      "c": " Semi Object-oriented",
+      "d": " None of the above"
+    },
+
+    "10": {
+      "a": " Encapsulation",
+      "b": " Inheritance",
+      "c": " Polymorphism",
+      "d": " All of the above"
+    }
+  },
+
+
+  {
+    "1": " Both A and B",
+    "2": " cout <<\"Hello world!\";",
+    "3": " VAR_123",
+    "4": " &",
+    "5": " All of the above",
+    "6": " Extensible",
+    "7": " Bjarne Stroustrup",
+    "8": " get(ch)",
+    "9": " Semi Object-oriented",
+    "10":" All of the above"
+  }
+
+
+]

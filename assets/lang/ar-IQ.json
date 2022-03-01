@@ -1,0 +1,12 @@
+{
+"Flutter": "فلاتر",
+  "SmartQuiz": "الامتحان الذكي",
+  "C++": "سي ++",
+  "Java": "جافا",
+  "Flutter is a free and open-source mobile UI framework created by Google '\n'and released in May 2017. it allows you to create a native '\n        'mobile application with only one codebase.": "فلاتر هو إطار عمل مجاني ومفتوح المصدر لواجهة مستخدم للهاتف المحمول تم إنشاؤه بواسطة Google '\n        \"وتم إصداره في مايو 2017. يتيح لك إنشاء مواطن\"\n        تطبيق جوال بقاعدة شفرة واحدة فقط.",
+  "C++ is a general-purpose programming language created '\n        'by Bjarne Stroustrup as an extension of the C programming language,'\n        ' or \"C with Classes\".": "C ++ هي لغة برمجة للأغراض العامة تم إنشاؤها '\n        بقلم Bjarne Stroustrup كامتداد للغة البرمجة C ،\n        أو \"C مع الفئات\".",
+  "Java is an object-oriented programming language that produces software for multiple platforms. When a programmer writes a Java application,'\n        ' the compiled code (known as bytecode) runs on most operating systems (OS), '\n        'including Windows, Linux and Mac OS.": "Java هي لغة برمجة موجهة للكائنات تنتج برامج لمنصات متعددة. عندما يكتب المبرمج تطبيق Java ، \"\n        يعمل الرمز المترجم (المعروف باسم الرمز الثانوي) على معظم أنظمة التشغيل (OS) ،\n        بما في ذلك Windows و Linux و Mac OS."
+
+
+
+}

@@ -1,0 +1,102 @@
+[
+  {
+   "1": "Flutter developed by?",
+    "2": "Flutter is not a language; it is an SDK",
+    "3": "A widget that allows us to refresh the screen is called a ____________.",
+    "4": "The examples of the Stateless widget are?",
+    "5": "How many child widgets can be added to the Container widget?",
+    "6": "Which of the following property should you use to add a label, icon, and an inline hint text to\nthe TextField widget ?",
+    "7": "This widget helps you to have a specific width and/or height between widgets.\nWhich of the following term is this definition for?",
+    "8": "A floating action button in Flutter development is by default a circular icon button, and you should addthe Icon widget as a child widget of\n FloatingActionButton widget.Which of the \nfollowing choices is correct to add a phone icon to the FloatingActionButton widget in a Flutter app ?\n",
+    "9": "Flutter apps are written in the __________ language and make use of many of the language's more advanced features.",
+    "10": "Flutter is an __________ mobile application development framework created by Google."
+  },
+
+  {
+    "1": {
+      "a": "Oracle",
+      "b": "Facebook",
+      "c": "Google",
+      "d": "IBM"
+    },
+
+    "2": {
+      "a": "TRUE",
+      "b": "FALSE",
+      "c": "Can be true or false",
+      "d": "Can not say"
+    },
+
+    "3": {
+      "a": "Stateless widgets",
+      "b": "Stateful widget",
+      "c": "Statebuild widget",
+      "d": "All of the above"
+    },
+
+    "4": {
+      "a": "Text",
+      "b": "Row",
+      "c": "Column",
+      "d": "All of the above"
+    },
+
+    "5": {
+      "a": "Unlimited children widgets",
+      "b": "Only one child widget",
+      "c": "Two children widgets",
+      "d": "Three children widgets"
+    },
+
+    "6": {
+      "a": "ListView",
+      "b": "InputDecoration",
+      "c": "SizeBox",
+      "d": "shrinkWrap: true"
+    },
+
+    "7": {
+      "a": "AppBar",
+      "b": "SizedBox",
+      "c": "SafeArea",
+      "d": "onChanged"
+    },
+
+    "8": {
+      "a": ". Icon<\"phone\">,",
+      "b": "icon(icon.style:\"phone\"),",
+      "c": "Icon(Icons.phone),",
+      "d": "icon=phone.Flutter,"
+    },
+
+    "9": {
+      "a": "C",
+      "b": "Java",
+      "c": "Dart",
+      "d": "Swift"
+    },
+
+    "10": {
+      "a": "Open-source",
+      "b": "Shareware",
+      "c": "Both",
+      "d": "None of the above"
+      }
+    },
+
+
+  {
+    "1": "Google",
+    "2": "TRUE",
+    "3": "Stateful widget",
+    "4": "All of the above",
+    "5": "Only one child widget",
+    "6": "InputDecoration",
+    "7": "SizedBox",
+    "8": "Icon(Icons.phone),",
+    "9": "Dart",
+    "10": "Open-source"
+  }
+
+
+]
